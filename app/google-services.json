@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "424547641122",
+    "firebase_url": "https://fir-practice-andr-default-rtdb.firebaseio.com",
+    "project_id": "fir-practice-andr",
+    "storage_bucket": "fir-practice-andr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424547641122:android:d19db116cf987cc4f0e77b",
+        "android_client_info": {
+          "package_name": "com.example.facedetectionmlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424547641122-g199nkhra9uf95fi8kd0es9vs33ci3vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALBK3mzbG3dq_Fn-uWqPI5MdbROyF6H2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424547641122-g199nkhra9uf95fi8kd0es9vs33ci3vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424547641122:android:fb20c8e067009dbff0e77b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424547641122-g199nkhra9uf95fi8kd0es9vs33ci3vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALBK3mzbG3dq_Fn-uWqPI5MdbROyF6H2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424547641122-g199nkhra9uf95fi8kd0es9vs33ci3vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

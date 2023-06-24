@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Face Detection ML Kit</string>
+    <string name="opencamera">OPEN CAMERA</string>
+    <string name="ok">OK</string>
+</resources>
